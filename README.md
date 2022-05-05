@@ -8,3 +8,4 @@ FNO Prices - https://github.com/harshilkaswala/My_SQL/blob/main/FNO_prices.ipynb
 PCR Project - https://github.com/harshilkaswala/My_SQL/blob/main/PCR%20project.ipynb
 SQL analysis - https://github.com/harshilkaswala/My_SQL/blob/main/sql_analysis.ipynb
 Future improvements - I would like to record and analyze data for multiple days instead of one, and maybe create a time series model.
+Presentation Link - https://www.loom.com/share/7976d750583e4fe98321ec4fa2c4ee67
