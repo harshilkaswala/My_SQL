@@ -1,0 +1,10 @@
+# My_SQL
+Project Name: Option Prices Statistical analysis 
+Project Objective: Traders around the world have been using their intuation since a very long time to trade, however when it comes to options trading traders have made huge losses because their emotions clouded their judgement. With this project I intend to minimize the human emotional aspeect of it byy running statistical analysis and stacking the odds in the favor of the trader
+Job description: I am aiming for a job at virtu financial which is a leading market maker in the global markets, their primaryy duties include providing liquidity in the derivative segment. I will be aiming for the job fo quantitative trader, a qaunt trader is responsible for developing complex trading strategies which have been developed from mass analysis of data, a quant trader is also reponsible to learn and understand all the steps for the trading flow and optimmize it. Quant traders are expected to be experts in trading technology and how it interacts with the market, futher more they are expected to learn the and gain expertise in the market micro structure to succesfully execute strategies. My project will help the firm collect the data and perform a base level analysis, eventhough further analysis will have to be done to develope a strategy, my project will provoide them with the most up to date data. 
+Source: I have used NSE - python Api, which has been developed by another developer, the API enabled me to extract complex stock data into python from the official NSE website, I also used the NSE option chain scrapper to get the Open interest Data of options. Most of the data I imported has been numeric or integer.
+ATM Strike - https://github.com/harshilkaswala/My_SQL/blob/main/ATM%20Strike.ipynb
+FNO Prices - https://github.com/harshilkaswala/My_SQL/blob/main/FNO_prices.ipynb
+PCR Project - https://github.com/harshilkaswala/My_SQL/blob/main/PCR%20project.ipynb
+SQL analysis - https://github.com/harshilkaswala/My_SQL/blob/main/sql_analysis.ipynb
+Future improvements - I would like to record and analyze data for multiple days instead of one, and maybe create a time series model.
